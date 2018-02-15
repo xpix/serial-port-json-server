@@ -1,5 +1,3 @@
-# Main location for this repo has been moved to https://github.com/chilipeppr/serial-port-json-server
-
 serial-port-json-server
 =======================
 Version 1.94
